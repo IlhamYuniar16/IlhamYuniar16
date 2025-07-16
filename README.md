@@ -30,7 +30,7 @@
 ### 📚 Bahasa yang biasa saya gunakan
 
 <p align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynxx16-06&layout=compact&theme=tokyonight&langs_count=8" alt="Bahasa yang digunakan oleh Lynxx16-06" width="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynxx16-06&layout=compact&theme=tokyonight&langs_count=8" alt="Bahasa yang digunakan oleh Lynxx16-06" width="300"/>
 </p>
 
 ---
