@@ -5,8 +5,10 @@
 <p align="">
   <img src="https://komarev.com/ghpvc/?username=Lynxx16-06&label=Profile%20views&color=0e75b6&style=flat" alt="view counter"/>
 </p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&multiline=true&width=550&height=100&lines=Hallo+Selamat+Datang+di+Github;Ilham+Yuniar+Tio+A.F.)](https://git.io/typing-svg)
 ---
+
+<marquee>Selamat datang di profil saya! 👋</marquee>
 
 ### ✨ Tentang Saya
 
@@ -27,7 +29,7 @@
 ### 📚 Bahasa yang biasa saya gunakan
 
 <p align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynxx16-06&layout=compact&theme=tokyonight&langs_count=8" alt="Bahasa yang digunakan oleh Lynxx16-06" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynxx16-06&layout=compact&theme=tokyonight&langs_count=8" alt="Bahasa yang digunakan oleh Lynxx16-06" width="250"/>
 </p>
 
 ---
@@ -35,9 +37,9 @@
 ### 📊 Statistik GitHub
 
 <p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lynxx16-06&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lynxx16-06&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Lynxx16-06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Lynxx16-06&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" />
 </p>
 
 ---
@@ -55,5 +57,5 @@
 
 ---
 
-> “Jangan hanya menulis kode, tapi buatlah solusi.”  
+> “Be Yourself and Never Surrender”  
 > – Ilham Yuniar
