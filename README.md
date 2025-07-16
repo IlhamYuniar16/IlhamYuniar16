@@ -11,8 +11,6 @@
 
 ---
 
-<marquee>Selamat datang di profil saya! 👋</marquee>
-
 ### ✨ Tentang Saya
 
 🎓 Mahasiswa dan Frontend Developer yang fokus membangun antarmuka web dan mobile modern.  
