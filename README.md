@@ -5,7 +5,9 @@
 <p align="">
   <img src="https://komarev.com/ghpvc/?username=Lynxx16-06&label=Profile%20views&color=0e75b6&style=flat" alt="view counter"/>
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&multiline=true&width=550&height=100&lines=Hallo+Selamat+Datang+di+Github;Ilham+Yuniar+Tio+A.F.)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&pause=1000&multiline=true&width=550&height=100&lines=Hallo+Selamat+Datang+di+Github;Ilham+Yuniar+Tio+A.F." alt="Typing Animation" />
+</p>
 ---
 
 <marquee>Selamat datang di profil saya! 👋</marquee>
