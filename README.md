@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lynxx16-06/Lynxx16-06/main/github-header-image.png" alt="Hello, I'm Ilham Yuniar Tio A.F." />
+</p>
+
 <h1 align="center">Halo 👋, saya Ilham Yuniar</h1>
 <h3 align="center">Frontend Developer dari Indonesia 🇮🇩</h3>
 
