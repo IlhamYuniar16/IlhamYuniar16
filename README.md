@@ -13,9 +13,9 @@
 
 ### ✨ Tentang Saya
 
-🎓 Mahasiswa dan Frontend Developer yang fokus membangun antarmuka web dan mobile modern.  
-🚀 Fokus saat ini: Vue.js, React Native, Flutter dan Tailwind CSS.  
-🧠 Sedang memperdalam: UI/UX Design, API Testing, dan pengembangan aplikasi mobile.
+🎓 **Mahasiswa dan Frontend Developer** yang fokus membangun antarmuka web dan mobile modern.  
+🚀 Fokus saat ini: **Vue.js, React Native, Flutter dan Tailwind CSS.**  
+🧠 Sedang memperdalam: **UI/UX Design, API Testing, dan pengembangan aplikasi mobile.**
 
 ---
 
