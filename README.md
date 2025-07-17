@@ -30,7 +30,7 @@
 ### 📚 Bahasa yang biasa saya gunakan
 
 <p align="">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lynxx16-06&layout=compact&theme=tokyonight&langs_count=8" alt="Bahasa yang digunakan oleh Lynxx16-06" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamYuniar16&layout=compact&theme=tokyonight&langs_count=8" alt="Bahasa yang digunakan oleh Lynxx16-06" width="300"/>
 </p>
 
 ---
@@ -38,9 +38,9 @@
 ### 📊 Statistik GitHub
 
 <p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lynxx16-06&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IlhamYuniar16&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Lynxx16-06&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" />
+  <img src="https://streak-stats.demolab.com?user=IlhamYuniar16&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" />
 </p>
 
 ---
