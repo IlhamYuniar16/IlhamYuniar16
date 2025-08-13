@@ -25,6 +25,9 @@
   <img src="https://skillicons.dev/icons?i=vue,react,javascript,html,css,tailwind,postman,flutter,figma" />
 </p>
 
+![GitHub Contributions](https://github-contributions.now.sh/api?username=IlhamYuniar16&year=2025)
+
+
 ---
 
 ### 📚 Bahasa yang biasa saya gunakan
