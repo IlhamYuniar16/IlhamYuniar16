@@ -27,6 +27,7 @@
 
 ![GitHub Contributions](https://github-contributions.now.sh/api?username=IlhamYuniar16&year=2025)
 
+![IlhamYuniar16's GitHub stats](https://github-readme-stats.vercel.app/api?username=IlhamYuniar16&show_icons=true)
 
 ---
 
