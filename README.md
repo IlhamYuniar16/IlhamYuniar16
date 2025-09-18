@@ -18,7 +18,7 @@
 🧠 Sedang memperdalam: **UI/UX Design, API Testing, dan pengembangan aplikasi mobile.**
 
 ---
-
+ 
 ### 🛠️ Teknologi yang Saya Gunakan
 
 <p align="left">
