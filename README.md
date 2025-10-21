@@ -22,7 +22,7 @@
 ### 🛠️ Teknologi yang Saya Gunakan
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,javascript,html,css,tailwind,postman,react,flutter,figma" />
+  <img src="https://skillicons.dev/icons?i=vue,flutter,javascript,html,css,tailwind,postman,react,figma" />
 </p>
 
 ---
