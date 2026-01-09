@@ -19,7 +19,7 @@
 
 ---
  
-### 🛠️ Teknologi yang Saya Gunakan
+### Teknologi yang Saya Gunakan
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vue,flutter,javascript,html,css,tailwind,postman,react,figma" />
@@ -27,7 +27,7 @@
 
 ---
 
-### 📚 Bahasa yang biasa saya gunakan
+### Bahasa yang biasa saya gunakan
 
 <p align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IlhamYuniar16&layout=compact&theme=tokyonight&langs_count=8" alt="Bahasa yang digunakan oleh Lynxx16-06" width="300"/>
@@ -35,7 +35,7 @@
 
 ---
 
-### 📊 Statistik GitHub
+### Statistik GitHub
 
 <p align="">
   <img src="https://github-readme-stats.vercel.app/api?username=IlhamYuniar16&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400" />
@@ -45,7 +45,7 @@
 
 ---
 
-### 📫 Hubungi Saya
+### Hubungi Saya
 
 <p align="left">
   <a href="mailto:ilhamyuniartioalfahrozi@gmail.com">
